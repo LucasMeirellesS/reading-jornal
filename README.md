@@ -24,7 +24,7 @@ O **Reading Journal** é uma aplicação web desenvolvida em React para registra
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/reading-journal.git
+   git clone https://github.com/LucasMeirellesS/reading-jornal.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
