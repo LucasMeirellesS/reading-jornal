@@ -40,23 +40,4 @@ O **Reading Journal** é uma aplicação web desenvolvida em React para registra
    ```
 5. Acesse `http://localhost:5173` no navegador.
 
-## Contribuição
-Contribuições são bem-vindas! Para contribuir:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature:
-   ```sh
-   git checkout -b minha-feature
-   ```
-3. Faça commit das suas alterações:
-   ```sh
-   git commit -m "Adiciona nova funcionalidade"
-   ```
-4. Faça push para a branch:
-   ```sh
-   git push origin minha-feature
-   ```
-5. Abra um Pull Request.
-
-## Licença
-Este projeto está sob a licença MIT. 
 
